@@ -27,5 +27,3 @@ You can delete this repository from the *Status and Configuration* screen or fro
 
 If you have questions you can check out the [Users’ guide](working-copy://manual) and if the app is
 misbehaving or missing critical features write me at [anders@workingcopyapp.com](mailto:anders@workingcopyapp.com).
-
-![Anders Borum](/examples/anders.png)
