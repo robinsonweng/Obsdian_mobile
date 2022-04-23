@@ -1,0 +1,81 @@
+{
+  "main": {
+    "id": "88b5ccaec0ee4e96",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b0f3dcbc61fb21d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "讀書心得/原子習慣/讓提示顯而易見.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20ed8966d75302eb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a6af509213794866",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "eb7b74cd0f4a9867",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c713161ba693c40d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c2af44a87da930ae",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "讀書心得/原子習慣/讓提示顯而易見.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6b0f3dcbc61fb21d",
+  "lastOpenFiles": [
+    "讀書心得/原子習慣/讓提示顯而易見.md",
+    "讀書心得/原子習慣/為何細微改變會帶來巨大差異.md",
+    "README.md"
+  ]
+}
